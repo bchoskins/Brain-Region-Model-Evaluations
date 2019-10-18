@@ -1,8 +1,8 @@
 # Brain-Region-Model-Evaluations
 
 ***Source***
-
 "Whole Brain Structural MRI Scans for Sex Classification Using a Convolutional Neural Netork"
+
 
 ***Purpose***
 
