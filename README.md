@@ -2,7 +2,7 @@
 
 ***Source***
 
-"Whole Brain Structural MRI Scans for Sex Classification Using a Convolutional Neural Netork"
+"SEX DIFFERENCES IN THER BRAIN: DIVERGENT RESULTS FROM TRADITIONAL MACHINE LEARNING AND CONVOLUTIONAL NETWORKS"
 
 
 ***Purpose***
